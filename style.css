@@ -1,0 +1,36 @@
+@import URL("reset.css");
+
+/*{
+    background-color: #9DC3C1;
+}
+*/
+header{
+    background-color: #6E7783;
+    padding: 20px;
+}
+
+.caixa{
+    position: relative;
+    width: 940px;
+    margin: 0 auto;
+}
+
+nav{
+    position: absolute;
+    top: 120px;
+    right: 10%;
+}
+
+nav li{
+    display: inline;
+    margin: 0 0 0 15px;
+}
+
+nav a{
+    text-transform: uppercase;
+    color: black;
+    font-weight: bold;
+    font-size: 20px;
+    text-decoration: none;
+    
+}    
